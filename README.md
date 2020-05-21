@@ -17,4 +17,4 @@ Post | /dogs | Add dog
 Put | /dogs/:name | Update dog
 --- | --- | ---
 Delete | /dogs/:name' | Delete dog
---- | --- | ---
+
